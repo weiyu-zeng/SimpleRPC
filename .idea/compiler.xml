@@ -7,12 +7,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="simpleRPC-06" />
         <module name="simpleRPC-01" />
         <module name="simpleRPC-02" />
         <module name="simpleRPC-03" />
         <module name="simpleRPC-04" />
         <module name="simpleRPC-05" />
+        <module name="simpleRPC-06" />
+        <module name="simpleRPC-07" />
       </profile>
     </annotationProcessing>
   </component>
